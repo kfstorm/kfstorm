@@ -1,5 +1,7 @@
 ![Kai Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kfstorm&show_icons=true)
 
+![Language stats](https://wakatime.com/share/@eab3a4be-3c4d-4d69-bec4-af06c5c46d14/c02bc6f8-6f8d-496c-ae9f-a41980fd5b65.svg)
+
 <!--
 **kfstorm/kfstorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
