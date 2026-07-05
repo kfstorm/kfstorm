@@ -1,4 +1,6 @@
-![Kai Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kfstorm&show_icons=true)
+[![GitHub Roast](https://ghfind.com/api/card/kfstorm?theme=light&qr=1)](https://ghfind.com/u/kfstorm?ref=badge)
+
+[![GitHub Roast](https://ghfind.com/api/card/kfstorm?theme=light&variant=work&qr=1)](https://ghfind.com/u/kfstorm?ref=badge)
 
 <!--
 **kfstorm/kfstorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
